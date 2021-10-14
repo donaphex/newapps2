@@ -19,6 +19,7 @@
 	"admob_banner4":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter4":"ca-app-pub-6099942544/1033173712",
 	
+	"testmode" : false,
 	"unity_game_id" : "3916229",
         "unity_banner" : "Android_Banner",
         "unity_interstitial" : "Android_Interstitial",
