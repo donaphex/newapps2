@@ -20,9 +20,9 @@
 	"admob_inter4":"ca-app-pub-6099942544/1033173712",
 	
 	"testmode": false,
-	"unity_game_id" : "",
-        "unity_banner" : "",
-        "unity_interstitial" : "",
+	"unity_game_id" : "4406993",
+        "unity_banner" : "Banner_Android",
+        "unity_interstitial" : "Interstitial_Android",
 	
 	"APPLOVIN_BANNER_ID":"ae44996e2b723dcf",
 	"APPLOVIN_INTERSTITIAL_ID":"2838649e0b560a68",
