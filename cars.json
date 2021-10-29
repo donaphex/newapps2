@@ -20,16 +20,16 @@
 	
 	
 	"testmode": false,
-        "unity_game_id": "4406993",
-	"unity_banner": "testbanr",
-	"unity_interstitial": "testinter",
+        "unity_game_id": "4427109",
+	"unity_banner": "Banner_Android",
+	"unity_interstitial": "Interstitial_Android",
 	
 	"APPLOVIN_BANNER_ID": "ae44996e2b723dcf",
 	"APPLOVIN_INTERSTITIAL_ID": "2838649e0b560a68",
 
 	"MO_PUB_BANNER_ID": "",
 	"MO_PUB_INTERSTITIAL_ID": "",
-	"whichAds": 1,
+	"whichAds": 3,
 
 	"isLastPageShow": true,
 
