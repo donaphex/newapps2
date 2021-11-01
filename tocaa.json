@@ -31,7 +31,7 @@
 	"MO_PUB_INTERSTITIAL_ID":"",
 	"whichAds":3,
 
-	"isLastPageShow":true,
+	"isLastPageShow":false,
 	
 	"is_pop_up_enable":false,
 	"pop_up_title":"Instagram",
@@ -41,7 +41,7 @@
 	
 	"native_image_url":"https://i.ibb.co/jrRhx22/cptoc.png",
 	"native_link":"https://bit.ly/verfyyeh",
-	"native_enabled":true
+	"native_enabled":false
 
 
 }
