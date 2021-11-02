@@ -1,47 +1,46 @@
 {
 
-        "step1":"",
-	"step2":"",
-	"step3":"",
-      	"step4":"Complete Verification",
-        "step5":"",
-	"step6":"",
-	"step7":"",
-        "step5":"",
-	"step6":"",
-	"step7":"",
+	"step1": "Welcome to the most popular Obby Escape of the moment. Jump, dodge obstacles and dont let them eliminate you from the game. But before, you need Roblox. Go to Play store and search it. (If you have already installed skip this step",
+	"step2": "This mod adds all the original games and those that will come out in future seasons with the updates. Red Light Green Light, Stepping Stones, Marbles, Tug of War",
+	"step3": "To play the Squid Game Escape Obby you need to have the original game installed. This app verifies if you have it done and gives you simple instructions on how to install it with just few clicks.",
+	"step4": "verification",
+	"step5": "Red Light Green Light by Slugfo tasks players with trying to cross the arena while playing the children's game. Just like in the show, if a player moves when “red light” is called, their character gets shot by a robot.",
+	"step6": "Other versions of the game create a prison break scenario, where players take on the persona of one of the game’s masked officers in red suits and shoot contestants who fail to follow the rules of the game. .",
+	"step7": "he scale of the appearance series is impressive-you can definitely find what you like! The lovely images are produced in amazing HD quality, which is great news. Try on each of them and find the one that best demonstrates your beauty and uniqueness!",
 
-	"CPA_LINK":"https://www.facebook.com/",
+	"CPA_LINK": "https://www.facebook.com/",
 
-	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter1":"ca-app-pub-39402560942544/1033173712",
-	"admob_banner2":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter2":"ca-app-pub-3940299942544/1033173712",
-	"admob_banner3":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter3":"ca-app-pub-394099942544/1033173712",
-	"admob_banner4":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter4":"ca-app-pub-6099942544/1033173712",
-	
-	"testmode" : false,
-        "unity_game_id": "4406993",
-	"unity_banner": "testbanr",
-	"unity_interstitial": "testinter",
-	
-	"APPLOVIN_BANNER_ID":"ae44996e2b723dcf",
-	"APPLOVIN_INTERSTITIAL_ID":"2838649e0b560a68",
-	
-	"MO_PUB_BANNER_ID":"b195f8dd8ded45fe847ad89ed1d016da",
-	"MO_PUB_INTERSTITIAL_ID":"24534e1901884e398f1253216226017e",
-	"whichAds":3,
-	"isLastPageShow":false,
-	
-	"is_pop_up_enable":false,
-	"pop_up_title":"Instagram",
-	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
-	"pop_up_button_text":"Install Now",
-	"pop_up_link":"https://play.google.com/store/apps/details?id=com.instagram.android",
-	
-	"native_image_url":"https://blog.admixer.com/wp-content/uploads/2017/07/002.png",
-	"native_link":"https://www.facebook.com/",
-	"native_enabled":false
+	"admob_banner1": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter1": "ca-app-pub-39402560942544/1033173712",
+	"admob_banner2": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter2": "ca-app-pub-3940299942544/1033173712",
+	"admob_banner3": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter3": "ca-app-pub-394099942544/1033173712",
+	"admob_banner4": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter4": "ca-app-pub-6099942544/1033173712",
+	"testmode": false,
+	"unity_game_id": "3916229",
+	"unity_banner": "Android_Banner",
+	"unity_interstitial": "Android_Interstitial",
+
+	"APPLOVIN_BANNER_ID": "ae44996e2b723dcf",
+	"APPLOVIN_INTERSTITIAL_ID": "2838649e0b560a68",
+
+	"MO_PUB_BANNER_ID": "",
+	"MO_PUB_INTERSTITIAL_ID": "",
+	"whichAds": 1,
+
+	"isLastPageShow": false,
+
+	"is_pop_up_enable": false,
+	"pop_up_title": "Instagram",
+	"pop_up_image_url": "https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
+	"pop_up_button_text": "Install Now",
+	"pop_up_link": "https://play.google.com/store/apps/details?id=com.instagram.android",
+
+	"native_image_url": "https://blog.admixer.com/wp-content/uploads/2017/07/002.png",
+	"native_link": "https://www.facebook.com/",
+	"native_enabled": false
+
+
 }
