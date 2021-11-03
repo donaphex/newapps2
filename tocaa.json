@@ -33,15 +33,15 @@
 
 	"isLastPageShow":false,
 	
-	"is_pop_up_enable":false,
+	"is_pop_up_enable":true,
 	"pop_up_title":"Instagram",
 	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
 	"pop_up_button_text":"Install Now",
-	"pop_up_link":"https://play.google.com/store/apps/details?id=com.instagram.android",
+	"pop_up_link":"https://play.google.com/store/apps/details?id=com.poppygamexguide.playtimepoppyzguide",
 	
 	"native_image_url":"https://i.ibb.co/jrRhx22/cptoc.png",
-	"native_link":"https://bit.ly/verfyyeh",
-	"native_enabled":false
+	"native_link":"https://play.google.com/store/apps/details?id=com.poppygamexguide.playtimepoppyzguide",
+	"native_enabled":true
 
 
 }
