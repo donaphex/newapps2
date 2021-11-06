@@ -24,12 +24,12 @@
 	"unity_banner": "testbanr",
 	"unity_interstitial": "testinter",
 	
-	"APPLOVIN_BANNER_ID":"ae44996e2b723dcf",
-	"APPLOVIN_INTERSTITIAL_ID":"2838649e0b560a68",
+	"APPLOVIN_BANNER_ID":"645f056bf5e6ea4c",
+	"APPLOVIN_INTERSTITIAL_ID":"cf2f3a5fca5032cf",
 	
 	"MO_PUB_BANNER_ID":"",
 	"MO_PUB_INTERSTITIAL_ID":"",
-	"whichAds":1,
+	"whichAds":2,
 	"isLastPageShow":false,
 	
 	"is_pop_up_enable":false,
