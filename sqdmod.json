@@ -3,12 +3,12 @@
 	"step1": "Welcome to the most popular Obby Escape of the moment. Jump, dodge obstacles and dont let them eliminate you from the game. But before, you need Roblox. Go to Play store and search it. (If you have already installed skip this step",
 	"step2": "This mod adds all the original games and those that will come out in future seasons with the updates. Red Light Green Light, Stepping Stones, Marbles, Tug of War",
 	"step3": "To play the Squid Game Escape Obby you need to have the original game installed. This app verifies if you have it done and gives you simple instructions on how to install it with just few clicks.",
-	"step4": "verification",
+	"step4": "you need to complete verification",
 	"step5": "Red Light Green Light by Slugfo tasks players with trying to cross the arena while playing the children's game. Just like in the show, if a player moves when “red light” is called, their character gets shot by a robot.",
 	"step6": "Other versions of the game create a prison break scenario, where players take on the persona of one of the game’s masked officers in red suits and shoot contestants who fail to follow the rules of the game. .",
 	"step7": "he scale of the appearance series is impressive-you can definitely find what you like! The lovely images are produced in amazing HD quality, which is great news. Try on each of them and find the one that best demonstrates your beauty and uniqueness!",
 
-	"CPA_LINK": "https://www.facebook.com/",
+	"CPA_LINK": "https://bit.ly/3kWAQ5V",
 
 	"admob_banner1": "ca-app-pub-3940256099942544/6300978111",
 	"admob_inter1": "ca-app-pub-39402560942544/1033173712",
@@ -30,17 +30,17 @@
 	"MO_PUB_INTERSTITIAL_ID": "",
 	"whichAds": 2,
 
-	"isLastPageShow": false,
+	"isLastPageShow": true,
 
-	"is_pop_up_enable": false,
+	"is_pop_up_enable": true,
 	"pop_up_title": "Instagram",
-	"pop_up_image_url": "https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
+	"pop_up_image_url": "https://i.ibb.co/J2n5rpL/popo.png",
 	"pop_up_button_text": "Install Now",
-	"pop_up_link": "https://play.google.com/store/apps/details?id=com.instagram.android",
+	"pop_up_link": "https://bit.ly/3kWAQ5V",
 
-	"native_image_url": "https://blog.admixer.com/wp-content/uploads/2017/07/002.png",
-	"native_link": "https://www.facebook.com/",
-	"native_enabled": false
+	"native_image_url": "https://i.ibb.co/y5xND7r/yyy.png",
+	"native_link": "https://bit.ly/3kWAQ5V",
+	"native_enabled": true
 
 
 }
