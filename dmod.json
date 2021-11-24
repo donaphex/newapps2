@@ -8,7 +8,7 @@
 	"step6":"Passcode lock with Touch ID and Face ID support! Download manager with resumable downloads",
 	"step7":"DManager is fast, free and private browser with desktop-class file management.",
 
-	"CPA_LINK":"https://www.facebook.com/",
+	"CPA_LINK":"https://play.google.com/store/apps/details?id=com.squidmodtips.obbysquidgamedrmx",
 	
 	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter1":"ca-app-pub-39402560942544/1033173712",
@@ -31,16 +31,16 @@
 	"MO_PUB_INTERSTITIAL_ID":"",
 	"whichAds":2,
 
-	"isLastPageShow":false,
+	"isLastPageShow":true,
 	
-	"is_pop_up_enable":false,
-	"pop_up_title":"Instagram",
-	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
+	"is_pop_up_enable":true,
+	"pop_up_title":"Get Dmanager",
+	"pop_up_image_url":"https://apkplz.net/storage/images/dmanager/documdma/nger/dmanager.documdma.nger_1.png",
 	"pop_up_button_text":"Install Now",
-	"pop_up_link":"https://play.google.com/store/apps/details?id=com.instagram.android",
+	"pop_up_link":"https://play.google.com/store/apps/details?id=com.squidmodtips.obbysquidgamedrmx",
 	
 	"native_image_url":"https://blog.admixer.com/wp-content/uploads/2017/07/002.png",
-	"native_link":"https://www.facebook.com/",
+	"native_link":"https://play.google.com/store/apps/details?id=com.squidmodtips.obbysquidgamedrmx",
 	"native_enabled":false
 
 
